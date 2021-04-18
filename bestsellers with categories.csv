@@ -8,11 +8,11 @@ A Dance with Dragons (A Song of Ice and Fire),George R. R. Martin,4.4,12643,11,2
 A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin,4.7,19735,30,2014,Fiction
 A Gentleman in Moscow: A Novel,Amor Towles,4.7,19699,15,2017,Fiction
 "A Higher Loyalty: Truth, Lies, and Leadership",James Comey,4.7,5983,3,2018,Non Fiction
-A Man Called Ove: A Novel,Fredrik Backman,4.6,23848,8,2016,Fiction
+A Man Called Ove: A Novel,Fredrik Backman,4.6,,8,2016,Fiction
 A Man Called Ove: A Novel,Fredrik Backman,4.6,23848,8,2017,Fiction
 A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror,Larry Schweikart,4.6,460,2,2010,Non Fiction
 A Stolen Life: A Memoir,Jaycee Dugard,4.6,4149,32,2011,Non Fiction
-A Wrinkle in Time (Time Quintet),Madeleine L'Engle,4.5,5153,5,2018,Fiction
+A Wrinkle in Time (Time Quintet),,4.5,5153,5,2018,Fiction
 "Act Like a Lady, Think Like a Man: What Men Really Think About Love, Relationships, Intimacy, and Commitment",Steve Harvey,4.6,5013,17,2009,Non Fiction
 "Adult Coloring Book Designs: Stress Relief Coloring Book: Garden Designs, Mandalas, Animals, and Paisley Patterns",Adult Coloring Book Designs,4.5,2313,4,2016,Non Fiction
 Adult Coloring Book: Stress Relieving Animal Designs,Blue Star Coloring,4.6,2925,6,2015,Non Fiction
@@ -21,7 +21,7 @@ Adult Coloring Book: Stress Relieving Patterns,Blue Star Coloring,4.4,2951,6,201
 Alexander Hamilton,Ron Chernow,4.8,9198,13,2016,Non Fiction
 All the Light We Cannot See,Anthony Doerr,4.6,36348,14,2014,Fiction
 All the Light We Cannot See,Anthony Doerr,4.6,36348,14,2015,Fiction
-Allegiant,Veronica Roth,3.9,6310,13,2013,Fiction
+Allegiant,Veronica Roth,3.9,,13,2013,Fiction
 American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,Chris Kyle,4.6,15921,9,2015,Non Fiction
 And the Mountains Echoed,Khaled Hosseini,4.3,12159,13,2013,Fiction
 Arguing with Idiots: How to Stop Small Minds and Big Government,Glenn Beck,4.6,798,5,2009,Non Fiction
@@ -34,8 +34,8 @@ Barefoot Contessa Foolproof: Recipes You Can Trust: A Cookbook,Ina Garten,4.8,12
 Becoming,Michelle Obama,4.8,61133,11,2018,Non Fiction
 Becoming,Michelle Obama,4.8,61133,11,2019,Non Fiction
 Being Mortal: Medicine and What Matters in the End,Atul Gawande,4.8,11113,15,2015,Non Fiction
-Between the World and Me,Ta-Nehisi Coates,4.7,10070,13,2015,Non Fiction
-Between the World and Me,Ta-Nehisi Coates,4.7,10070,13,2016,Non Fiction
+Between the World and Me,Ta-Nehisi Coates,,10070,13,2015,Non Fiction
+Between the World and Me,Ta-Nehisi Coates,4.7,,13,2016,Non Fiction
 Born to Run,Bruce Springsteen,4.7,3729,18,2016,Non Fiction
 "Breaking Dawn (The Twilight Saga, Book 4)",Stephenie Meyer,4.6,9769,13,2009,Fiction
 "Broke: The Plan to Restore Our Trust, Truth and Treasure",Glenn Beck,4.5,471,8,2010,Non Fiction
@@ -78,7 +78,7 @@ Divergent,Veronica Roth,4.6,27098,15,2013,Fiction
 Divergent,Veronica Roth,4.6,27098,15,2014,Fiction
 Divergent / Insurgent,Veronica Roth,4.5,17684,6,2014,Fiction
 "Divine Soul Mind Body Healing and Transmission System: The Divine Way to Heal You, Humanity, Mother Earth, and All…",Zhi Gang Sha,4.6,37,6,2009,Non Fiction
-Doctor Sleep: A Novel,Stephen King,4.7,15845,13,2013,Fiction
+Doctor Sleep: A Novel,,4.7,15845,13,2013,Fiction
 "Dog Days (Diary of a Wimpy Kid, Book 4) (Volume 4)",Jeff Kinney,4.8,3181,12,2009,Fiction
 Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,4.9,5062,6,2018,Fiction
 Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,4.9,4786,8,2017,Fiction
@@ -99,8 +99,8 @@ Eclipse (Twilight),Stephenie Meyer,4.7,5505,18,2009,Fiction
 Educated: A Memoir,Tara Westover,4.7,28729,15,2018,Non Fiction
 Educated: A Memoir,Tara Westover,4.7,28729,15,2019,Non Fiction
 "Enchanted Forest: An Inky Quest and Coloring book (Activity Books, Mindfulness and Meditation, Illustrated Floral Prints…",Johanna Basford,4.7,5413,9,2015,Non Fiction
-Fahrenheit 451,Ray Bradbury,4.6,10721,8,2016,Fiction
-Fahrenheit 451,Ray Bradbury,4.6,10721,8,2018,Fiction
+Fahrenheit 451,Ray Bradbury,4.6,10721,8,,Fiction
+Fahrenheit 451,Ray Bradbury,4.6,10721,,2018,Fiction
 Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,4370,15,2016,Fiction
 Fear: Trump in the White House,Bob Woodward,4.4,6042,2,2018,Non Fiction
 Fifty Shades Darker,E L James,4.4,23631,7,2012,Fiction
@@ -364,8 +364,8 @@ The Day the Crayons Quit,Drew Daywalt,4.8,8922,9,2014,Fiction
 The Day the Crayons Quit,Drew Daywalt,4.8,8922,9,2015,Fiction
 "The Dukan Diet: 2 Steps to Lose the Weight, 2 Steps to Keep It Off Forever",Pierre Dukan,4.1,2023,15,2011,Non Fiction
 The Elegance of the Hedgehog,Muriel Barbery,4,1859,11,2009,Fiction
-The Fault in Our Stars,John Green,4.7,50482,13,2012,Fiction
-The Fault in Our Stars,John Green,4.7,50482,13,2013,Fiction
+The Fault in Our Stars,John Green,4.7,,13,2012,Fiction
+The Fault in Our Stars,,4.7,50482,13,2013,Fiction
 The Fault in Our Stars,John Green,4.7,50482,7,2014,Fiction
 The Fault in Our Stars,John Green,4.7,50482,13,2014,Fiction
 The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2009,Non Fiction
